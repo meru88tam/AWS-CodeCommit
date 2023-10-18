@@ -7,6 +7,7 @@ To authenticate with Git repositories using the AWS credential profile, set up t
 
 # To clone your AWS CodeCommit repository with HTTPS
 •	Clone a repository: You can copy the HTTPS URL of your repository from the AWS CodeCommit console and use the git clone command to clone it to your local machine.
+
 •	Copy a command: You can copy the git clone command from the document and paste it into your terminal session. You need to replace the placeholder value with the actual URL of your repository.
 
 # To modify the code and make your first commit in your local repository, do these steps:
