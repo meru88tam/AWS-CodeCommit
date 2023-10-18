@@ -1,4 +1,4 @@
-# Create a code repository using AWS CodeCommit, reate a local code repository on the Linux instance using git and synchronize a local repository with an AWS CodeCommit repository
+# Create a code repository using AWS CodeCommit, create a local code repository on the Linux instance using git and synchronize a local repository with an AWS CodeCommit repository
 
 <img src="code.jpg" />
 
