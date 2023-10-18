@@ -12,16 +12,23 @@ To authenticate with Git repositories using the AWS credential profile, set up t
 
 # To modify the code and make your first commit in your local repository, do these steps:
 •	Go to the "My-Repo" directory by executing this command:
+
 •	Copy
+
 •	cd ~/My-Repo
+
 •	create two files in your local repository 
 
 # To upload your first commit from your local repository to your AWS CodeCommit repository, follow these steps:
 Run the following command:
+
 Copy
+
 git push -u origin master
 
 You now have successfully:
 •	Created a code repository using the AWS CodeCommit Management Console
+
 •	Created a local code repository on your Linux instance using git
+
 •	Synchronized a local repository with an AWS CodeCommit repository
