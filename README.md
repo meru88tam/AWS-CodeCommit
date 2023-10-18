@@ -1,4 +1,6 @@
-# Create a code repository using AWS CodeCommit, Create a local code repository on the Linux instance using git and Synchronize a local repository with an AWS CodeCommit repository
+# Create a code repository using AWS CodeCommit, reate a local code repository on the Linux instance using git and synchronize a local repository with an AWS CodeCommit repository
+
+<img src="code.jpg" />
 
 # Task 1: To create a new repository named “My-Repo” in AWS CodeCommit, 
 Navigate to “CodeCommit” via the AWS Management Console, click on “Create repository”, and fill in the required fields. Upon creation, you’ll be directed to the repository page.
