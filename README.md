@@ -26,7 +26,7 @@ Copy
 
 git push -u origin master
 
-You now have successfully:
+# You now have successfully:
 •	Created a code repository using the AWS CodeCommit Management Console
 
 •	Created a local code repository on your Linux instance using git
