@@ -1,5 +1,5 @@
 # To create a new repository named “My-Repo” in AWS CodeCommit, 
-navigate to “CodeCommit” via the AWS Management Console, click on “Create repository”, and fill in the required fields. Upon creation, you’ll be directed to the repository page.
+Navigate to “CodeCommit” via the AWS Management Console, click on “Create repository”, and fill in the required fields. Upon creation, you’ll be directed to the repository page.
 A console connection enables web browser access to the instance, automatically executing commands to switch to the user’s home directory upon connection.
 
 To sync your local code with AWS CodeCommit, initialize a Git repository in your local IDE, add and commit your code files, then link your local repository with the CodeCommit repository using the Git URL. Push your local code to the CodeCommit repository using “git push”.
